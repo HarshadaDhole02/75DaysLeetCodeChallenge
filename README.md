@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,8 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

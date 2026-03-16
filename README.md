@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
@@ -11,17 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |

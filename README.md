@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2460-apply-operations-to-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->

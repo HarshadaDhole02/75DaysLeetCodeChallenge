@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0130-surrounded-regions](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -46,16 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->

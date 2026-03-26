@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2090-k-radius-subarray-averages](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2090-k-radius-subarray-averages) |
 | [2460-apply-operations-to-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -136,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [2090-k-radius-subarray-averages](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

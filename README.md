@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

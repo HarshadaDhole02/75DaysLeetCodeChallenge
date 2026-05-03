@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |

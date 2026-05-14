@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
 | ------- |

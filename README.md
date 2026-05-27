@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0210-course-schedule-ii) |
+| [0997-find-the-town-judge](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |

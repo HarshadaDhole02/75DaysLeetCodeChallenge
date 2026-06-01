@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
 | ------- |

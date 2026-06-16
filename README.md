@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Graph Theory
 |  |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/HarshadaDhole02/75daysLeetcodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Interactive
 |  |
 | ------- |
